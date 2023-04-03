@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.drap-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 1px solid black;
+  height: 500px;
+  width: 500px;
+  background-color: lightblue;
+}
+
+.drap-board {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 1px solid black;
+  height: 500px;
+  width: 500px;
+  background-color: lightgreen;
+}
